@@ -74,7 +74,7 @@ apt-get update && apt-get upgrade
 apt-get install git
 apt-get install python2
 git clone 
-https://github.com/shawarkhanethicalhacker/D-TECT
+https://github.com/bibortone/D-Tech
 echo  $red" T E R I N S T A L L "
 fi
 
@@ -185,7 +185,7 @@ apt update && apt upgrade
 pkg install git
 pkg install python2
 git clone 
-https://github.com/blackvkng/viSQL.git
+https://github.com/egyshell/viSQL
 cd ~/viSQL
 chmod 777 viSQL.py
 cd ~/
